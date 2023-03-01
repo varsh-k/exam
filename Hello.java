@@ -1,6 +1,6 @@
 public class Hello{
   public static void main(Sting arg[])
   {
-      system.out.println("hello");
+      System.out.println("hello");
    }
  }
